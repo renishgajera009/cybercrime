@@ -1,0 +1,3 @@
+data_id,name,mobile,email_id,unique_id,type,gender,address,city,state,country,pincode,dob,lattitude,longitude,insta_id,facebook_id,snap_id,whatsapp,cast,education,college_schoolname,profile_picture,linkedin_id,website
+1,raj,7041707155,raj,1111,vi,male,surat,surat,gujarat,india,395010,2005-02-28 00:00:00,10,10,raj,raj,raj,7041707155,patel,bca,ppsu,penidng,raj,raj
+2,ayush,9016345293,ayush,15555,jio,male ,bardoli,bardoli,gujarat,india,395011,2005-02-16 00:00:00,10,15,ayush,ayush,ayush,9016345293,patel,bba,bmu,pening,ayush,ayush
